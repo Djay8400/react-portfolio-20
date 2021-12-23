@@ -2,6 +2,7 @@
 // 	-Downloadable resume link and list of skills/badges
 
 import React from "react";
+import resume from "../../assets/Resume-David-Jay.pdf";
 
 function Resume() {
   return (
@@ -24,7 +25,7 @@ function Resume() {
         <li>React.JS</li>
         <li>Redux</li>
       </ul>
-      <a href="./assets/Resume-David-Jay.pdf" className="gitLinked">
+      <a href={resume} className="gitLinked">
         My Resume
       </a>
     </div>

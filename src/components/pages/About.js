@@ -1,14 +1,12 @@
 import React from "react";
+import imgVarName from "../../assets/20210807_183939.jpg";
+import resume from "../../assets/Resume-David-Jay.pdf";
 
 function About() {
   return (
     <div>
       <figure className="figure">
-        <img
-          src="./assets/20210807_183939.jpg"
-          alt="man smiling"
-          width="400px"
-        />
+        <img src={imgVarName} alt="man smiling" width="400px" />
       </figure>
       <article>
         <h2>Hello,</h2>
@@ -34,7 +32,7 @@ function About() {
         >
           My LinkedIn
         </a>
-        <a href="./assets/Resume-David-Jay.pdf" className="gitLinked">
+        <a href={resume} className="gitLinked">
           My Resume
         </a>
       </article>
