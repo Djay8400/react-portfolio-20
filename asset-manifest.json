@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-20/static/css/main.20a6799b.css",
+    "main.js": "/react-portfolio-20/static/js/main.8b44ca9a.js",
+    "static/js/787.583d6e9c.chunk.js": "/react-portfolio-20/static/js/787.583d6e9c.chunk.js",
+    "static/media/concertTracker.png": "/react-portfolio-20/static/media/concertTracker.3a22592aa32ae1973e65.png",
+    "static/media/20210807_183939.jpg": "/react-portfolio-20/static/media/20210807_183939.6492eed09d6fe5899df0.jpg",
+    "static/media/codingscreen.jfif": "/react-portfolio-20/static/media/codingscreen.7d28d01d3c59d6f368c5.jfif",
+    "static/media/Resume-David-Jay.pdf": "/react-portfolio-20/static/media/Resume-David-Jay.b812b62449b1024d2b3f.pdf",
+    "static/media/FanPass.png": "/react-portfolio-20/static/media/FanPass.d3326082a92364fb3b76.png",
+    "static/media/weather-dashboard.png": "/react-portfolio-20/static/media/weather-dashboard.be59e857171a8705ff6e.png",
+    "static/media/techblog.png": "/react-portfolio-20/static/media/techblog.249360b649fe1fa2a0a6.png",
+    "static/media/scheduler.png": "/react-portfolio-20/static/media/scheduler.640f00de6ccfd411f938.png",
+    "static/media/notetaker.png": "/react-portfolio-20/static/media/notetaker.757e16ba0abe8d5ce891.png",
+    "index.html": "/react-portfolio-20/index.html",
+    "main.20a6799b.css.map": "/react-portfolio-20/static/css/main.20a6799b.css.map",
+    "main.8b44ca9a.js.map": "/react-portfolio-20/static/js/main.8b44ca9a.js.map",
+    "787.583d6e9c.chunk.js.map": "/react-portfolio-20/static/js/787.583d6e9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20a6799b.css",
+    "static/js/main.8b44ca9a.js"
+  ]
+}
